@@ -115,6 +115,10 @@ kexin-curatorial-portfolio/
   - Added the correct URLs for all social media platforms, including Instagram, TikTok, Substack, Ko-fi, Medium, and LinkedIn.
   - Reordered the social links to prioritize key platforms.
 
+### Recent Updates (Session 5)
+- **About Page Clean-up:**
+  - Removed the scroll-down arrow icon from the About page to simplify the design.
+
 ## Technologies Used
 
 - React 18

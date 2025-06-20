@@ -70,15 +70,6 @@ const About = () => {
             </Link>
           </div>
         </div>
-
-        {/* Scroll Down Arrow */}
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 hidden lg:block z-10">
-          <a href="#collaborations" className="animate-bounce">
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-gray-500 hover:text-gray-800 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
-            </svg>
-          </a>
-        </div>
       </div>
 
       {/* Collaborations Section */}
